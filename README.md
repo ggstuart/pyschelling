@@ -2,7 +2,7 @@
 pyschelling
 ===========
 
-A simple agent-based implementation of Schelling's segregation.
+A simple agent-based implementation of Schelling's segregation model.
 
 Installation
 ------
