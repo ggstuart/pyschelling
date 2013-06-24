@@ -4,6 +4,11 @@ pyschelling
 
 A simple agent-based implementation of Schelling's segregation.
 
+Installation
+------
+
+    pip install pyschelling
+
 Usage:
 ------
 
