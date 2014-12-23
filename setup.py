@@ -3,7 +3,7 @@ from setuptools import setup
 try:
     import pygtk
 except ImportError:
-    print 'You need to install pyGTK to use this'
+    print('You need to install pyGTK to use this')
     exit()
 
 def readme():
